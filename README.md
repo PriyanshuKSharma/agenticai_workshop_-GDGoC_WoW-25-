@@ -5,4 +5,4 @@ This repository serves as a central hub for workshop participants to access code
 Intended Audience: Students, researchers, and academics interested in gaining practical experience with Agentic AI development on the Google Cloud Platform.
 
 You need a GCP project to execute the notebooks. Follow the instructions given in this video for creating a free tier account : https://www.youtube.com/watch?v=ogzJovMsDIU
-They SHOULD NOT  click on button called "Activate Full Account " to avoid any billing.
+DO NOT  click on button called "Activate Full Account "
