@@ -6,3 +6,18 @@ Intended Audience: Students, researchers, and academics interested in gaining pr
 
 You need a GCP project to execute the notebooks. Follow the instructions given in this video for creating a free tier account : https://www.youtube.com/watch?v=ogzJovMsDIU
 DO NOT  click on button called "Activate Full Account "
+## Getting started 
+1. Open Google drive
+2. Create a new colab (You may need to install the Colab App)
+3. Enter following code
+   ``` from google.colab import drive
+       drive.mount('/content/drive')
+   
+5. Complete Authentication Process
+6. Enter following code
+   ```
+       %%bash
+       cd /content/drive/MyDrive/
+       mkdir -p wow_pune
+       cd wow_pune
+       git clone https://github.com/BhushanGarware/agenticai_workshop.git '''
