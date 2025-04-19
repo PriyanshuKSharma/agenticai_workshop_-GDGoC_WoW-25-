@@ -20,7 +20,7 @@ DO NOT  click on button called "Activate Full Account "
        cd /content/drive/MyDrive/
        mkdir -p wow_pune
        cd wow_pune
-       git clone https://github.com/BhushanGarware/agenticai_workshop.git '''
+       git clone https://github.com/BhushanGarware/agenticai_workshop.git
 
 ## Setting up GCP Project 
 1. On GCP homepage, search for 'Vertex AI' and click on **Enable All Recommended APIs**
