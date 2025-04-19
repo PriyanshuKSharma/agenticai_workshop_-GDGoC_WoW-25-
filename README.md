@@ -26,3 +26,18 @@ DO NOT  click on button called "Activate Full Account "
 1. On GCP homepage, search for 'Vertex AI' and click on **Enable All Recommended APIs**
 2. On GCP homepage, search for 'buckets' and click on **Create New Bucket**, give a unique name and keep rest as default
 
+## Installing ADK
+1. Click on activate cloud shell at the right top corner of the GCP homepage
+2. create a virtual Python environment using venv:
+      ```
+      python -m venv .venv
+
+3. Activate the virtual environment using the appropriate command for your operating system and environment:
+   ```
+    source .venv/bin/activate
+4. Install ADK
+   ```
+    pip install google-adk
+
+
+
