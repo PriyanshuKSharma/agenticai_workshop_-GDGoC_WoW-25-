@@ -24,4 +24,5 @@ DO NOT  click on button called "Activate Full Account "
 
 ## Setting up GCP Project 
 1. On GCP homepage, search for 'Vertex AI' and click on **Enable All Recommended APIs**
+2. On GCP homepage, search for 'buckets' and click on **Create New Bucket**, give a unique name and keep rest as default
 
